@@ -1,0 +1,269 @@
+body {
+    background-color: #FAFAD2;
+}
+/*blah*/
+h1 {
+font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 60px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 40.3999996185303px;
+	color: white;
+
+}
+
+
+#name1 {
+	color: white;
+}
+p {
+	color: white;
+}
+#hey {
+	color: green;
+	font-size: 60;
+}
+img.lil{
+	margin-top: 50px;
+	margin-left: 100px;
+	height: 400px;
+	width: 600px;
+
+}
+<!--
+#bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+#photos {
+   /* Prevent vertical gaps */
+   line-height: 0;
+   
+   -webkit-column-count: 5;
+   -webkit-column-gap:   0px;
+   -moz-column-count:    5;
+   -moz-column-gap:      0px;
+   column-count:         5;
+   column-gap:           0px;
+   
+}
+#photos img {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
+}
+
+@media (max-width: 1200px) {
+  #photos {
+  -moz-column-count:    4;
+  -webkit-column-count: 4;
+  column-count:         4;
+  }
+}
+@media (max-width: 1000px) {
+  #photos {
+  -moz-column-count:    3;
+  -webkit-column-count: 3;
+  column-count:         3;
+  }
+}
+@media (max-width: 800px) {
+  #photos {
+  -moz-column-count:    2;
+  -webkit-column-count: 2;
+  column-count:         2;
+  }
+}
+@media (max-width: 400px) {
+  #photos {
+  -moz-column-count:    1;
+  -webkit-column-count: 1;
+  column-count:         1;
+  }
+}
+
+<head>
+
+<style type=text/css  > 
+
+BODY.enterPage{
+      cursor:hand;
+    }
+
+#aboutasd{
+  background: url(sky1.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+  
+}
+
+#london {
+	background: url(londonnight.jpg);
+  background-size: 100% 100%;
+
+}
+
+#london2 {
+	background: url(buckinghampalace.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+	
+}
+#newyork {
+	background: url(timessquare.jpg);
+  
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#newyork2 {
+	background: url(broadway.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+
+}
+#india {
+		background: url(tajmahal.jpg);
+  background-size: 100% 100%;
+   background-repeat: no-repeat;
+
+
+}
+
+#india2 {
+			background: url(indiastreet.jpg);
+background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#brazil {
+background: url(rio.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+#brazil2{
+	background: url(brazil2.jpg);
+ background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+#antarctica{
+	background: url(penguin.jpg);
+ background-size: 100% 100%; 
+ background-repeat: no-repeat;
+
+
+
+
+
+}
+
+#antarctica2{
+	background: url(glacier.jpg);
+background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+
+}
+
+#dubai{
+	background: url(skylinedubai.jpg);
+background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#dubai2{
+	background: url(dubaisunset.jpg);
+ background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#austrailia{
+	background: url(sydney1.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}#austrailia2{
+	background: url(sydneyab.jpg);
+ background-size: 100% 100%;
+  background-repeat: no-repeat;
+}#beijing{
+	background: url(beijing.jpg);
+ background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}#beijing2{
+	background: url(wall.jpg);
+background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+#southafrica{
+		background: url(Saci.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+#southafrica2{
+background: url(sadance.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#spain{
+background: url(madrid.jpg);
+ background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+
+
+#spain2{
+	background: url(bull.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;}
+
+footer {
+  	position: fixed;
+  	bottom: 0px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
